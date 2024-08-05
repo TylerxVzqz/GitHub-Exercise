@@ -1,2 +1,2 @@
 # GitHub-Exercise
-This repo is created for Springboard Github Unit 9.4
+This repo is created for SpringBoard Github Unit 9.4. 
